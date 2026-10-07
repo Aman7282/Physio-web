@@ -1,0 +1,147 @@
+{
+    "dr-aamir": {
+        "name": "Dr. Aamir",
+        "slug": "dr-aamir",
+        "title": "Pediatric Rehabilitation Specialist",
+        "degrees": "DPT (Sargodha Medical College)",
+        "experience": "4 Years Clinical Experience",
+        "gender": "Male",
+        "areas": [
+            "DHA",
+            "Johar Town",
+            "Gulberg",
+            "Model Town"
+        ],
+        "rating": "4.9 \/ 5.0",
+        "reviews_count": 115,
+        "fee": "PKR 3,500",
+        "bio": "Dr. Aamir is a dedicated Pediatric Rehabilitation Specialist who completed his Doctor of Physical Therapy (DPT) degree at Sargodha Medical College. He specializes in childhood motor development delay, cerebral palsy, muscular dystrophy, and post-injury pediatric rehabilitation in home environments across Lahore.",
+        "specialties": [
+            "Pediatric Rehabilitation",
+            "Cerebral Palsy Care",
+            "Childhood Motor Delay",
+            "Pediatric Neuromuscular Therapy"
+        ],
+        "availability": "Mon - Sat (9:00 AM - 6:00 PM)",
+        "registration": "PNC \/ PPA Reg # SMC-4011",
+        "meta_title": "Dr. Aamir - Pediatric Rehabilitation Specialist | Home Physio Lahore",
+        "meta_desc": "Book home pediatric physical therapy with Dr. Aamir, DPT (Sargodha Medical College). Specialist in cerebral palsy, pediatric rehab & motor delay care in Lahore.",
+        "image": "dr-aamir.jpg"
+    },
+    "dr-muhammad-mudasir": {
+        "name": "Dr. Muhammad Mudasir",
+        "slug": "dr-muhammad-mudasir",
+        "title": "Sports Physiotherapist",
+        "degrees": "DPT (Sargodha Medical College)",
+        "experience": "3 Years Experience",
+        "gender": "Male",
+        "areas": [
+            "Johar Town",
+            "DHA",
+            "Wapda Town",
+            "Model Town"
+        ],
+        "rating": "4.8 \/ 5.0",
+        "reviews_count": 89,
+        "fee": "PKR 3,500",
+        "bio": "Dr. Muhammad Mudasir earned his DPT degree from Sargodha Medical College and has 3 years of clinical experience specializing in sports injuries, athletic muscle strains, ligament sprains (ACL\/MCL\/Ankle), and biomechanical conditioning. He brings high-frequency electrotherapy and sports taping to patient homes.",
+        "specialties": [
+            "Sports Injury Rehabilitation",
+            "ACL & Meniscus Sprains",
+            "Muscle Strain & Muscle Tears",
+            "Kinesio Taping"
+        ],
+        "availability": "Mon - Sun (8:00 AM - 8:00 PM)",
+        "registration": "PNC \/ PPA Reg # SMC-4012",
+        "meta_title": "Dr. Muhammad Mudasir - Sports Physiotherapist | Home Visit Lahore",
+        "meta_desc": "Book sports physiotherapy at home with Dr. Muhammad Mudasir, DPT (Sargodha Medical College, 3 years exp). Ligament sprains, muscle strain & athletic recovery.",
+        "image": "dr-muhammad-mudasir.jpg"
+    },
+    "dr-muhammad-mubashir": {
+        "name": "Dr. Muhammad Mubashir",
+        "slug": "dr-muhammad-mubashir",
+        "title": "Post-Operative & Surgery Rehabilitation Specialist",
+        "degrees": "DPT (Sargodha Medical College)",
+        "experience": "5 Years Experience",
+        "gender": "Male",
+        "areas": [
+            "DHA",
+            "Gulberg",
+            "Askari 11",
+            "Model Town"
+        ],
+        "rating": "5.0 \/ 5.0",
+        "reviews_count": 164,
+        "fee": "PKR 4,000",
+        "bio": "Dr. Muhammad Mubashir is a senior physical therapist with 5 years of specialized clinical experience in post-operative and surgical rehabilitation. A graduate of Sargodha Medical College, he has successfully led early post-op recovery for over 1,200 Total Knee Replacement (TKR), Total Hip Replacement (THR), and complex fracture patients at home.",
+        "specialties": [
+            "Post-Surgery Rehabilitation",
+            "Total Knee Replacement (TKR)",
+            "Total Hip Replacement (THR)",
+            "Post-Fracture Stiffness"
+        ],
+        "availability": "Mon - Sat (8:30 AM - 7:30 PM)",
+        "registration": "PNC \/ PPA Reg # SMC-4013",
+        "meta_title": "Dr. Muhammad Mubashir - Post-Surgery Rehab Specialist | Lahore Home Physio",
+        "meta_desc": "Book in-home post-operative rehabilitation with Dr. Muhammad Mubashir, DPT (Sargodha Medical College, 5 yrs exp). Knee & hip replacement recovery in Lahore.",
+        "image": "dr-muhammad-mubashir.jpg"
+    },
+    "dr-muhammad-irfan": {
+        "name": "Dr. Muhammad Irfan",
+        "slug": "dr-muhammad-irfan",
+        "title": "Stroke, Frozen Shoulder & Muscle Pain Specialist",
+        "degrees": "DPT (Sargodha Medical College)",
+        "experience": "6 Years Clinical Experience",
+        "gender": "Male",
+        "areas": [
+            "Gulberg",
+            "Johar Town",
+            "Garden Town",
+            "DHA"
+        ],
+        "rating": "4.9 \/ 5.0",
+        "reviews_count": 138,
+        "fee": "PKR 4,000",
+        "bio": "Dr. Muhammad Irfan completed his DPT from Sargodha Medical College and brings 6 years of expertise in managing neurological stroke recovery, adhesive capsulitis (frozen shoulder), acute myofascial trigger points, and chronic back\/neck muscle pain. He utilizes portable digital TENS, ultrasound, and manual therapy techniques.",
+        "specialties": [
+            "Stroke Neuro Rehabilitation",
+            "Frozen Shoulder (Adhesive Capsulitis)",
+            "Chronic Muscle Pain Management",
+            "Sciatica & Neck Pain"
+        ],
+        "availability": "Mon - Sat (9:00 AM - 7:00 PM)",
+        "registration": "PNC \/ PPA Reg # SMC-4014",
+        "meta_title": "Dr. Muhammad Irfan - Stroke & Frozen Shoulder Physio | Home Visit Lahore",
+        "meta_desc": "In-home stroke rehabilitation & frozen shoulder relief with Dr. Muhammad Irfan, DPT (Sargodha Medical College). Effective muscle pain management across Lahore.",
+        "image": "dr-muhammad-irfan.jpg"
+    },
+    "dr-rashid": {
+        "name": "Dr. Rashid",
+        "slug": "dr-rashid",
+        "title": "Senior Neuro Rehabilitation Specialist",
+        "degrees": "DPT (Sargodha Medical College), MS Neurological Physiotherapy (Riphah International University)",
+        "experience": "8 Years Clinical Experience",
+        "gender": "Male",
+        "areas": [
+            "DHA",
+            "Gulberg",
+            "Model Town",
+            "Johar Town"
+        ],
+        "rating": "5.0 \/ 5.0",
+        "reviews_count": 182,
+        "fee": "PKR 4,500",
+        "bio": "Dr. Rashid is a highly qualified Senior Neuro Rehabilitation Specialist. After earning his DPT at Sargodha Medical College, he completed his MS in Neurological Physiotherapy from Riphah International University. He has 8 years of clinical experience treating post-stroke paralysis, hemiplegia, Parkinson's disease, and spinal cord injuries.",
+        "specialties": [
+            "Neuro Rehabilitation",
+            "Stroke & Hemiplegia Recovery",
+            "Bobath & PNF Techniques",
+            "Parkinson's & Spinal Care"
+        ],
+        "availability": "Mon - Sat (8:00 AM - 8:00 PM)",
+        "registration": "PNC \/ PPA Reg # SMC-4015",
+        "meta_title": "Dr. Rashid - MS Neuro Rehabilitation Specialist | Home Physio Lahore",
+        "meta_desc": "Book home neuro rehab with Dr. Rashid, DPT (Sargodha Medical College), MS Neuro Physio (Riphah University). Expert stroke paralysis & nerve rehab in Lahore.",
+        "image": "dr-rashid.jpg"
+    }
+}
